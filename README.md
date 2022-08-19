@@ -5,7 +5,7 @@ Developed a simple Android application that displays a "Hello from Zonayed(my na
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/3u8QDXQ7DE.gif" width=200><br>
+<img src="http://g.recordit.co/lElWnlhI0X.gif" width=200><br>
 
 
 ### Required User Stories
@@ -14,9 +14,9 @@ Developed a simple Android application that displays a "Hello from Zonayed(my na
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.
-- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
-- [ ] 3. User can tap on the background view to reset all views to default settings.
+- [x] 1. User can tap a button to change the color of the background view.
+- [x] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [x] 3. User can tap on the background view to reset all views to default settings.
 - [ ] 4. User can update the label text with custom text entered into the text field.
    - [ ] a. User can enter text into a text field using the keyboard.
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
